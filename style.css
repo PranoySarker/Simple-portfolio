@@ -41,3 +41,24 @@ ul li{
     text-align: center;
     margin-top: 20%;
 }
+#my-project{
+    margin-top: 8%;
+}
+#my-project h1{
+   text-align: center;
+   color: black;
+   font-size: 30px;
+}
+#image-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#image-section img{
+    width:40%;
+    height: 400px;
+    padding: 8px;
+    margin: 8px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
